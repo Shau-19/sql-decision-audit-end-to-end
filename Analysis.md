@@ -415,32 +415,6 @@ See Query 3 results above (same data, strategic framing).
 **What happened:** Post-decision analysis revealed $800K opportunity  
 **Lesson:** Audit major decisions to improve future decision-making processes
 
----
-
-## Technical Skills Demonstrated
-
-### SQL Proficiency
-- ✅ Complex CTEs and subqueries
-- ✅ Window functions (LAG, PARTITION BY)
-- ✅ Multi-table JOINs (transactions, users, refunds, tickets)
-- ✅ Conditional aggregation (CASE WHEN)
-- ✅ Revenue decomposition
-- ✅ Cohort and segment analysis
-
-### Analytical Thinking
-- ✅ A/B test post-hoc analysis
-- ✅ Segment-level performance decomposition
-- ✅ Simpson's Paradox identification
-- ✅ Counterfactual reasoning
-- ✅ Strategic optimization
-- ✅ Decision forensics
-
-### Business Acumen
-- ✅ Translating technical findings to business impact ($800K)
-- ✅ Strategic deployment planning
-- ✅ Revenue-aligned metric design
-- ✅ Stakeholder-ready recommendations
-- ✅ Implementation roadmap with guardrails
 
 ---
 
@@ -479,13 +453,6 @@ decision-audit-system/
 ├── QUERY_Analysis/               # Individual query breakdowns
 └── visualizations/               # Charts (3 PNG files)
 ```
-
----
-
-**Analysis Conducted By:** [Your Name]  
-**Date:** February 2026  
-**Tools:** SQL, SQLite, Python, Matplotlib  
-**Repository:** [GitHub Link]
 
 ---
 
