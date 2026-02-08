@@ -161,7 +161,7 @@ low        | fast_checkout | $106.13             | -$5.13  | ✗ Keep on Control
 
 ## 📖 Documentation
 
-- **[ANALYSIS.md](ANALYSIS.md)** - Complete analysis with all query results and business interpretations
+- **[ANALYSIS.md](Analysis.md)** - Complete analysis with all query results and business interpretations
 - **[docs/](QUERY_Analysis/)** - Individual query breakdowns with step-by-step explanations
 - **[sql/](sql/)** - All SQL queries with business context comments
 
